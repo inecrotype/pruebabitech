@@ -1,5 +1,5 @@
 El proyecto fue creado con Angular y Springboot, el fin de este proyecto fue crear un CRUD que permita crear, editar y eliminar productos desde un almacenamiento locar con Postman, el cual aprovecha los métodos integrados como GET, POST PUT, PATCH Y DELETE.
-Para ejecutar, ser requiere el uso de un IDE, un lector de código y el uso de Postman API.
+Para ejecutar, ser requiere el uso de un IDE, un lector de código y el uso de Postman para verificar endpoints.
 Para correrlo se ejecuta MYECOMMERCE en el IDE, myecommerce-a en el lector de código, se ejecuta o se "levanta" el proyecto dentro del servidor, el cual por defecto toma el puerto 8080.
 Para acceder a la aplicación se ingresa por localhost:4200 (por defecto) y se ejecuta para realziar pruebas.
 
